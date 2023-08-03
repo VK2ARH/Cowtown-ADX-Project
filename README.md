@@ -7,7 +7,7 @@ Primary Files of interest will be:
 
 - ADX Order Spreadsheet - this sheet provides a detailed parts list of components for the ADX and provides links to where the Cowtown Amateur Radio Club purchased the components as part of a Group Buy.
 - The Cowtown ADX Construction Manual developed for the project, and updated during and after the project with lessons learnt.
-- The ADX firmware to support seven band operation.
+- The ADX firmware to support seven band operation. Vieo explaining the operation of the additional band selection can be found here: https://youtu.be/Cs5FBKQixyk 
   
 Files will be added progressively as they are edited and improved.
 
