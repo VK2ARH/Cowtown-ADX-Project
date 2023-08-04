@@ -1,4 +1,4 @@
-# Cowtown Amateur Radio Club -ADX-Project
+# Cowtown Amateur Radio Club: ADX-Project
 This repository has been created to host files and resources that were used in the Cowtown ADX project - a Buildathon Project which built the ADX Digital HF tranceiver
 
 The ADX was designed by Barb WB2CBA see his GitHub site for files and details of the project : https://github.com/WB2CBA/ADX. 
