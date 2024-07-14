@@ -16,7 +16,7 @@ There are a further two videos available on the Cowtown Amateur Radio Club YouTu
 - The first introducing the ADX ahead of our Buildathon Event. https://youtu.be/zcXAYpAbgKU . This video also shows the operation of the ADX as well as a brief outline of the build process.
 - The second discussing the Buildathon, how we went about it and the success we achieved. https://youtu.be/VrkioM_xv6s
 
-This project was run by the Manliy Warring Radio Society in 2024 and Simon VK2YE produced a 3D printed enclosure for the ADX - details can be found here: https://www.thingiverse.com/thing:6675282/comments
+This project was run by the Manliy Warring Radio Society in 2024 and Simon Mitchell VK2YU produced a 3D printed enclosure for the ADX - details can be found here: https://www.thingiverse.com/thing:6675282/comments
 
 Good luck with your project.
 
