@@ -1,5 +1,5 @@
 # May 2025 Updates
-Latest addition updates the Construction Manual to v1.6 which incorporates learnings gained from the Cowtown and MWRS buildathons, together with additional tuning and testing information. It has also been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant and newly designed top cover and the 7 band LPF kit.
+Latest addition updates the Construction Manual to v1.6 which incorporates learnings gained from the Cowtown and MWRS buildathons, together with additional tuning and testing information which avoids the need to download additional documents from this repository to support a buit. The construction manual has been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant, a newly designed top cover and the 7 band LPF kit.
 
 I have also produced three support videos dealing with:
 - Fine tuning the ADX by calibrating the VFO,
@@ -13,7 +13,7 @@ A Gerber folder has been added which houses the Gerber filed to enable productio
 # Cowtown Amateur Radio Club: ADX-Project
 This repository was initially created to host files and resources used in the Cowtown ADX project - a Buildathon Project which built the ADX Digital Mode HF tranceiver
 
-The ADX was designed by Barb WB2CBA see his GitHub site for files and details of the project : https://github.com/WB2CBA/ADX. 
+The ADX was designed by Barb WB2CBA see his GitHub site for files and details of the project : https://github.com/WB2CBA/ADX. Together with further information and discussion here: https://antrak.org.tr/blog/adx-arduino-digital-transceiver/ .
 
 Original files for the PCB's and other technical information can be obtained from Barb's GitHub site. This site holds the files and documentation to assist Amateur Radio Clubs or individuals seeking to establish a 'Buildathon' project for the ADX.
 Primary Files of interest will be:
