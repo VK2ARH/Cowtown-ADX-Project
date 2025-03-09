@@ -1,5 +1,5 @@
 # May 2025 Updates
-Latest addition updates the Construction Manual to v 1.6 which incorporates learnings gained from the Cowtown and MWRS buildathons, together with additional tuning and testing information. It has also been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant and newly designed top cover and the 7 band LPF kit.
+Latest addition updates the Construction Manual to v1.6 which incorporates learnings gained from the Cowtown and MWRS buildathons, together with additional tuning and testing information. It has also been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant and newly designed top cover and the 7 band LPF kit.
 
 I have also produced three support videos dealing with:
 - Fine tuning the ADX by calibrating the VFO,
