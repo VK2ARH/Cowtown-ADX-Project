@@ -11,7 +11,7 @@ These videos can be found here: https://www.youtube.com/@richardh3675
 A Gerber folder has been added which houses the Gerber filed to enable production of the PCB's used in Ver 1.6 of the construction manual.
 
 # Cowtown Amateur Radio Club: ADX-Project
-This repository has been created to host files and resources used in the Cowtown ADX project - a Buildathon Project which built the ADX Digital Mode HF tranceiver
+This repository was initially created to host files and resources used in the Cowtown ADX project - a Buildathon Project which built the ADX Digital Mode HF tranceiver
 
 The ADX was designed by Barb WB2CBA see his GitHub site for files and details of the project : https://github.com/WB2CBA/ADX. 
 
