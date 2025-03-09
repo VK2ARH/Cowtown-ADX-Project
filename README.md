@@ -4,7 +4,7 @@ Latest addition updates the Construction Manual to v1.6 which incorporates learn
 I have also produced three support videos dealing with:
 - Fine tuning the ADX by calibrating the VFO,
 - Tuning the LPF's to optimize power out and efficiency, and
-- Operating the ADX,  Changing Mode and Band Selection and entering Calibration Mode.
+- Operating the ADX,  Changing Mode and Band Selection.
 
 These videos can be found here: https://www.youtube.com/@richardh3675 
 
