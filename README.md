@@ -1,5 +1,5 @@
 # May 2025 Updates
-Latest addition updates the Construction Manual to v1.6 which incorporates learnings gained from the Cowtown and MWRS buildathons, together with additional tuning and testing information which avoids the need to download additional documents from this repository to support a buit. The construction manual has been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant, a newly designed top cover and the 7 band LPF kit.
+Latest addition updates the Construction Manual to v1.6.1 incorporates learnings gained from the Cowtown and MWRS buildathons, together with additional tuning and testing information which avoids the need to download additional documents from this repository to support a build. The construction manual has been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant, a newly designed top cover and the 7 band LPF kit.
 
 I have also produced three support videos dealing with:
 - Fine tuning the ADX by calibrating the VFO,
@@ -8,7 +8,7 @@ I have also produced three support videos dealing with:
 
 These videos can be found here: https://www.youtube.com/@richardh3675 
 
-A Gerber folder has been added which houses the Gerber filed to enable production of the PCB's used in Ver 1.6 of the construction manual.
+A Gerber folder has been added which houses the Gerber files to enable production of the PCB's used in Ver 1.6.1 of the construction manual.
 
 # Cowtown Amateur Radio Club: ADX-Project
 This repository was initially created to host files and resources used in the Cowtown ADX project - a Buildathon Project which built the ADX Digital Mode HF tranceiver
