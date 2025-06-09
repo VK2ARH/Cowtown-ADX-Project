@@ -1,3 +1,6 @@
+# June 2025 Update
+Latest addition to the Construction Manual to v1.7.1 provides details of the LPF's for 160m which whilst not included in the standard 7 band LPF kit, can be manufactured using a standard LPF PCB. The gerbers for the LPF PCB's can be found at Barb WB2CBA's github site shown below. I put together a short 7 min video highlighting the 160m LPF and operation of the ADX on 160m including the firmware upgrade which can be found here: https://youtu.be/DkK4gmk82t8?si=xi9hO9INV6UPa6VT
+
 # May 2025 Updates
 Latest addition updates the Construction Manual to v1.7 incorporates learnings gained from the Cowtown and MWRS buildathons and correcting the error in the number of L2 windings for the LPR. The manual from 1.6 onwards includes additional tuning and testing information which avoids the need to download additional documents from this repository to support a build. The construction manual has been updated to support the Radio and Electonics Association of Southern Tasmania (REAST) build in March 2025. This includes the use of the 7 band variant, a newly designed top cover and the 7 band LPF kit.
 
